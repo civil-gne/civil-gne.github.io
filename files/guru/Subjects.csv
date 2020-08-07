@@ -1,6 +1,6 @@
 "shortname","fullname","category","Remark"
 "Subject-Code","Name of Subject","Dept->PG|UG->Programme Name","Delete this line"
-"CE-102","High Rise Buildings","CE->PG->Structural Engineering","New Entry"
-,,,"More new entries"
+"CE-102","High Rise Buildings","*CE->PG->Structural Engineering","New Entry"
+,,"* It will an integer in this column, as per https://github.com/civil-gne/civil-gne.github.io/blob/master/files/guru/CourseCategories.csv","More new entries"
 ,,,"Change this to"
 ,,,"this one"
