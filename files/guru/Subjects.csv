@@ -1,5 +1,5 @@
 "shortname","fullname","category","Remark"
-"Subject-Code","Name of Subject","Dept->PG|UG->Programme Name Numeric code as per It will an integer in this column, as per https://github.com/civil-gne/civil-gne.github.io/blob/master/files/guru/CourseCategories.csv","Delete this line"
+"Subject-Code","Name of Subject","Dept->PG|UG->Programme Name [Numeric code as per It will an integer in this column, as per https://github.com/civil-gne/civil-gne.github.io/blob/master/files/guru/CourseCategories.csv]","Delete this line"
 "CE-102","High Rise Buildings","7","New Entry"
 ,,"* ","More new entries"
 ,,,"Change this to"
