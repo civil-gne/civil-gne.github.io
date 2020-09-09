@@ -22,7 +22,15 @@ attending certain lectures aand moreover, each one of us is experimenting and ac
 To make this workshop more effective, responses of participating teachers 
 were invited via google form prior to going live where faculty was asked to report any problem faced 
 during online teaching and related innovation done. Limited responses were obtained in this regard.
-Most of the respondents reported frequent network issue leading to breaking of voice as reported by students.
+Most of the respondents reported frequent network issue leading to breaking of voice as reported by students. 
+Another issue reported by faculty was about unsatisfactory attendance of students.
+
+Meanwhile during the session, network of the host was lost due to power failure and hence a discussion was 
+held amongst faculty regarding couple of cases where indiscipline was caused by few students during an online class.
+
+Once reconnected to the session, Dr Rai suggested to explore the ways of improving student's attendance, availability of back-up
+sytem incase of power failure, availability of fully charged laptop or other standby things to avoid unforeseen obstructions.
+
 
 
 
