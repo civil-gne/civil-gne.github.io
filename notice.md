@@ -4,7 +4,7 @@
 Keeping in view that online teaching is new to everyone,
 and one needs to learn while delivering, like an entrepreneur, 
 a workshop on "Online Teaching: Challenges and Opportunitites" 
-has been organised by Department of Civil Engineering, 
+was organised by Department of Civil Engineering, 
 Guru Nanak Dev Engineering College, Ludhiana.
 The prime objective of workshop was to share experience,difficulties encountered 
 and any innovation done, with hope that sharing will benefit all others. 
