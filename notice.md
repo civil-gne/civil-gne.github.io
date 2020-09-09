@@ -1,12 +1,12 @@
-# Two day workshop on "Online Teaching: Challenges and Opportunitites" 
+# Workshop on "Online Teaching: Challenges and Opportunitites" 
 ## Organised by Department of Civil Engineering, Guru Nanak Dev Engineering College, Ludhiana
 
 Keeping in view that online teaching is new to everyone,
 and one needs to learn while delivering, like an entrepreneur, 
-a two day workshop on "Online Teaching: Challenges and Opportunitites" 
+a workshop on "Online Teaching: Challenges and Opportunitites" 
 has been organised by Department of Civil Engineering, 
-Guru Nanak Dev Engineering College, Ludhiana, from Spetember 09-10, 2020.
-The prime objective of workshop is to share experience,difficulties encountered 
+Guru Nanak Dev Engineering College, Ludhiana.
+The prime objective of workshop was to share experience,difficulties encountered 
 and any innovation done, with hope that sharing will benefit all others. 
 
 Session on day 01 started with Dr H.S. Rai's comment about Engineering 
