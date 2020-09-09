@@ -9,10 +9,10 @@ Guru Nanak Dev Engineering College, Ludhiana.
 The prime objective of workshop was to share experience,difficulties encountered 
 and any innovation done, with hope that sharing will benefit all others. 
 
-Session on day 01 started with Dr H.S. Rai's comment about Engineering 
+Session started with Dr H.S. Rai's comment about the Engineering 
 faculty not being trained for online as well as offline teaching as 
 none has been qualified with a B.Ed or M.Ed degree.
-But, due to exposure to our teacher's teaching us during our schooling,
+But, due to exposure to our teachers or masters teaching us during our schooling,
 we all have acquired skills and have started teaching in our own understood ways. 
 He added that, lack of monitoring and inefficient feedback mechanism 
 further hindered improvement in one's teaching skills. 
