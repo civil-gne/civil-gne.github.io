@@ -1,6 +1,5 @@
 # Two day workshop on "Online Teaching: Challenges and Opportunitites" 
-## Organised by Department of Civil Engineering, GNDEC, Ludhiana
-
+## Organised by Department of Civil Engineering, Guru Nanak Dev Engineering College, Ludhiana
 
 Keeping in view that online teaching is new to everyone,
 and one needs to learn while delivering, like an entrepreneur, 
