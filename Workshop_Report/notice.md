@@ -55,7 +55,7 @@ it would remain there irrespective of the fact that one is sharing handwritten n
 using black board to write as far as online teaching is concerned. He suggested to opt 
 for typing instead of manually preparing notes by writing and scanning the same.
 He questioned the participants that why teachers mostly prefer to prepare hand written notes over typed? 
-To this, Prof Yuvraj Singh, expressed his point of view that if he was a student, he would have prefered
+To this, Prof Yuvraj Singh, expressed his point of view that if he was a student, he would have preferred
 that his teacher taught using handwritten notes or writing simultaneously during lecture as far as 
 numerical subjects are concerned. He added that, to him, typed numericals would give a feel of nothing
 different than sharing/displaying a book during lecture, which he would personally not like
