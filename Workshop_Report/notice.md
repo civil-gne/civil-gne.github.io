@@ -62,7 +62,7 @@ different than sharing/displaying a book during lecture, which he would personal
 as a student who wish to learn. Dr Rai further questioned Prof Yuvraj, would it be even incase
 of poor handwriting of a teacher? Prof Yuvraj said, yes, if a student is concentrating,
 he/she can always ask if something is not legible enough to understand. Dr Rai cited an 
-example of encountering poor handwriting of students during evaulation of answer sheets by 
+example of encountering poor handwriting of students during evaluation of answer sheets by 
 the evaluators and that it infact becomes nothing less than a headache. Prof Yuvraj, agreed.
 
 Dr Rai, reported that one of the major disadvantage of teacher's sharing slides of notes
