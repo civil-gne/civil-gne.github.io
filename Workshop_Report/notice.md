@@ -32,7 +32,7 @@ and hence a discussion was held amongst faculty regarding couple of cases where
 indiscipline was caused by few students during an online class.
 
 Once reconnected to the session, Dr Rai suggested to explore the ways of 
-improving student's attendance, availability of back-up sytem incase of power failure, 
+improving student's attendance, availability of back-up system incase of power failure, 
 availability of fully charged laptop or other standby things to avoid unforeseen obstructions.
 
 Following this, Dr Rai shared a sample of the screen shared by one of the teacher during online class.
