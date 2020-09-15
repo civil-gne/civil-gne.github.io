@@ -11,4 +11,4 @@ After registering, you will receive a confirmation email containing information 
 
 ### How to join Conference sessions
 
-Will be updated by 17th of Sept 2020 09:00 am.
+Will be shared by 17th of Sept 2020 during inaugural session.
