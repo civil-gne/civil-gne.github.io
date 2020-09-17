@@ -11,4 +11,16 @@ After registering, you will receive a confirmation email containing information 
 
 ### How to join Conference sessions
 
-Will be shared by 17th of Sept 2020 during inaugural session.
+Conf 1: Session 1
+https://gndec-ac-in.zoom.us/j/81519632628?pwd=Y054YWRpSU9wWHc4WlB5UkdjYXVPUT09
+
+Conf 1: Session 2
+https://gndec-ac-in.zoom.us/j/85435977110?pwd=dzE1clZOWEYxMmt2eWFqaHdGdkdjUT09
+
+Conf 2:
+
+Conf 3:
+https://gndec-ac-in.zoom.us/j/86536455132?pwd=QmdOZ1hxMFR1UTBqUUY0aEszWmpxUT09
+
+Conf 4:
+https://gndec-ac-in.zoom.us/j/87535581418?pwd=MmFBUXdFbnNMVklxQ1BVUENneTZIUT09
