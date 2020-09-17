@@ -18,6 +18,7 @@ Conf 1: Session 2
 https://gndec-ac-in.zoom.us/j/85435977110?pwd=dzE1clZOWEYxMmt2eWFqaHdGdkdjUT09
 
 Conf 2:
+https://gndec-ac-in.zoom.us/j/87647546764?pwd=OWh3RWhxZ3VDdThrck1pTUczRGg4UT09
 
 Conf 3:
 https://gndec-ac-in.zoom.us/j/86536455132?pwd=QmdOZ1hxMFR1UTBqUUY0aEszWmpxUT09
